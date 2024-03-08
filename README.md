@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/alaahmad97/alaahmad97/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center">Skills e linguagens:</h2>
 
 ###
@@ -37,23 +41,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="350" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
-
-###
-
-<div align="center">
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVrMnl0MG12ZzIybTNiZHk1ZmRmNnZ6aDFnOG13OGh5OGJmdGp0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alaahmad97/alaahmad97/output/snake.svg" alt="Snake animation" />
 
 ###
