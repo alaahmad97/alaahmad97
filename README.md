@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alaahmad97/alaahmad97/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Skills e linguagens:</h2>
 
 ###
